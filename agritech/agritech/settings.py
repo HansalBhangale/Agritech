@@ -78,7 +78,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'agritech.agritech.wsgi.application'
+WSGI_APPLICATION = 'agritech.wsgi.application'
 
 
 # Database
